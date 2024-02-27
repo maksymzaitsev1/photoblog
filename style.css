@@ -1,5 +1,30 @@
-body .ubuntu-light {
+.body {
+  font-family: "Playfair Display", serif;
+  font-size: 14px;
+  font-weight: 400px;
+  color: #626262;
+}
+/* ============Header================ */
+.menu-link {
+  color: #7d7d7d;
+  text-decoration: none;
+}
+.menu-link:hover {
+  color: #03a9f4;
+}
+/* =================Main============== */
+.gallery-category {
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
-  font-style: normal;
+  color: #b4ad9e;
+}
+.gallery-title {
+  font-weight: 400;
+  font-size: 30px;
+}
+.gallery-button {
+  font-family: "Playfair Display", serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #626262;
 }
